@@ -17,6 +17,5 @@ Contents
 .. toctree::
 
    usage
-   api
 
 LucisQR has its documentation hosted on Read the Docs.
