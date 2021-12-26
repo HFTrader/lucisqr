@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LucisQR'
+copyright = '2021, Henrique Bucher'
+author = 'Henrique Bucher'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.1'
+version = '1.1.0'
 
 # -- General configuration
 
