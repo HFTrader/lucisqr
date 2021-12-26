@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Lucis QR
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Documentation for the Lucis QR Fintech Suite
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+`http://www.vitorian.com`_
